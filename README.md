@@ -81,8 +81,6 @@ OS              Windows · Linux (Ubuntu)
 
 - [ ] CompTIA Security+
 - [ ] CompTIA Network+
-- [ ] TryHackMe — SOC Level 1 Path
-- [ ] Wireshark for network traffic analysis
 - [ ] Python scripting for automation
 
 ---
