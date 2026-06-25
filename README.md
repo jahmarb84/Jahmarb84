@@ -85,18 +85,6 @@ OS              Windows · Linux (Ubuntu)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jahmar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahmarb84&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&icon_color=00d4ff&text_color=c8d8f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahmarb84&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&text_color=c8d8f0)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm actively looking for entry-level opportunities in **Network Security** and **IT**. If you're hiring or want to collaborate on a project, reach out!
